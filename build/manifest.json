@@ -1,0 +1,17 @@
+{
+  "short_name": "FlashCards",
+  "name": "FlashCards - Learning Made Beautiful",
+  "description": "A beautiful flashcard application with playing card design for effective learning and revision",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6366f1",
+  "background_color": "#0a0a0a",
+  "orientation": "portrait-primary"
+}
